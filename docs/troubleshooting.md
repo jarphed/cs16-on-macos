@@ -2,7 +2,7 @@
 
 This page contains known issues that may occur when running Counter-Strike 1.6 with Xash3D FWGS and CS16Client on Apple Silicon Macs.
 
-For a normal installation, start with the steps in the main [README](../README.md).
+For a normal installation, start with the steps in the main [README](../readme.md).
 
 ---
 
@@ -295,7 +295,7 @@ This makes it much easier to determine whether the issue is related to the engin
 
 ## Still stuck?
 
-Make sure the installation follows the main [README](../README.md) from start to finish.
+Make sure the installation follows the main [README](../readme.md) from start to finish.
 
 The most important things to verify are:
 
